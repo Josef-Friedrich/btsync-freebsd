@@ -11,7 +11,7 @@
 # And optionally these line:
 #
 # btsync_user="username" # Default is "root"
-# btsync_bin="/path/to/btsync" # Default is "/usr/local/sbin/btsync"
+# btsync_bin="/path/to/btsync" # Default is "/usr/local/bin/btsync"
 
 . /etc/rc.subr
 
